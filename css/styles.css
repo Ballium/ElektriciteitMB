@@ -1,0 +1,4 @@
+body { font-family: sans-serif; margin: 2rem; line-height: 1.6; color: #333; }
+header, footer { background: #f0f0f0; padding: 1rem; }
+h1 { margin-top: 0; }
+section article { margin-bottom: 1.5rem; }
