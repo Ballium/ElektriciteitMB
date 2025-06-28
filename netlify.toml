@@ -1,0 +1,18 @@
+[build]
+  publish = "."
+  command = ""
+
+[[redirects]]
+  from = "/over-ons"
+  to = "/over-ons.html"
+  status = 200
+
+[[redirects]]
+  from = "/tarieven"
+  to = "/over-ons.html"
+  status = 200
+
+[[redirects]]
+  from = "/diensten"
+  to = "/diensten.html"
+  status = 200
